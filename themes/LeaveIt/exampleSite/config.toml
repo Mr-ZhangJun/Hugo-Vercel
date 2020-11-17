@@ -43,7 +43,7 @@ preserveTaxonomyNames = true
     since = 2020
     author = "阿 君 、"                           # Author's name
     avatar = "/images/me/me.JPG"           # Author's avatar
-    subtitle = "学习使我快乐"         # Subtitle
+    subtitle = "明日安在、无人能允"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
