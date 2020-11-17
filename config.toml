@@ -40,7 +40,7 @@ preserveTaxonomyNames = true
     weight = 4
 
 [params]
-    since = 2020.11.18
+    since = 2020
     author = "阿 君 、"                           # Author's name
     avatar = "/images/me/me.JPG"           # Author's avatar
     subtitle = "学习使我快乐"         # Subtitle
