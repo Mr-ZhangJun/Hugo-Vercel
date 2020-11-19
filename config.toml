@@ -1,14 +1,14 @@
 baseURL = "https://example.com"
-languageCode = "en-us"
-title = "ZhangJun"
-theme = "LeaveIt"
+languageCode = "zh-CN"
+title = "阿君的博客"     #网站名称
+theme = "LeaveIt"      #当前使用的主题名称，与themes文件夹中的子文件夹名称一致
 
-paginate = 12
-enableEmoji = true
-enableRobotsTXT = true
-googleAnalytics = ""
+paginate = 12                   # 每页显示的博文数量
+enableEmoji = true              # 允许使用 Emoji 表情，建议 true
+enableRobotsTXT = true          # 允许爬虫抓取到搜索引擎，建议 true
+googleAnalytics = ""            # 谷歌统计
 
-preserveTaxonomyNames = true
+preserveTaxonomyNames = true    
 
 [blackfriday]
   hrefTargetBlank = true
@@ -43,7 +43,7 @@ preserveTaxonomyNames = true
     since = 2020
     author = "阿 君 、"                           # Author's name
     avatar = "/images/me/me.JPG"           # Author's avatar
-    subtitle = "学习使我快乐"         # Subtitle
+    subtitle = "明日安在、无人能允"         # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -58,11 +58,11 @@ preserveTaxonomyNames = true
     license= ''
 
 [params.social]
-    GitHub = ""
+    GitHub = "xxoo"
     Twitter = "xxoo"
     Email   = "xxoo"
     Instagram = "xxoo"
-    Wechat = ""
+    Wechat = "xxoo"
     Facebook = "xxoo"
     Telegram = "xxoo"
     Dribbble = "xxoo"
