@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "zh-CN"
-title = "阿君的博客"     #网站名称
+title = "阿 君、的博客"     #网站名称
 theme = "LeaveIt"      #当前使用的主题名称，与themes文件夹中的子文件夹名称一致
 
 paginate = 12                   # 每页显示的博文数量
@@ -59,12 +59,6 @@ preserveTaxonomyNames = true
 
 [params.social]
     GitHub = "xxoo"
-    Twitter = "xxoo"
     Email   = "xxoo"
-    Instagram = "xxoo"
     Wechat = "xxoo"
-    Facebook = "xxoo"
-    Telegram = "xxoo"
-    Dribbble = "xxoo"
-    Medium = "xxoo"
 
