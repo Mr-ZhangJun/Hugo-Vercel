@@ -58,7 +58,7 @@ preserveTaxonomyNames = true
     license= ''
 
 [params.social]
-    GitHub = "xxoo"
-    Email   = "xxoo"
-    Wechat = "xxoo"
+    GitHub = "https://GitHub/Mr-ZhangJun"
+    Email  = "mr.ajun@foxmail.com"
+    Wechat = "static/Wechat.jpeg"
 
