@@ -59,6 +59,5 @@ preserveTaxonomyNames = true
 
 [params.social]
     GitHub = "/Mr-ZhangJun"
-    Email  = "mr.ajun@foxmail.com"
-    Wechat = "/static/images/me/Wechat.jpeg"
+    Wechat = "/images/me/Wechat.jpeg"
 
